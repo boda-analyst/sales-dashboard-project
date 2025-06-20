@@ -16,7 +16,6 @@ This project demonstrates a complete sales data analysis using Microsoft Excel.
 ## 📄 Files Included:
 - Excel Dashboard Screenshot
 - PDF Summary Report
-- Excel File (In the PDF Report)
 
 ## 📈 Sample Insights:
 - Total revenue, sales by product and region
